@@ -1,0 +1,23 @@
+Good technical skills: 
+
+• Highly proficient in AWS (Amazon Web Services) 
+
+• Strong skills in Unix Shell script (bash preferable) 
+
+• Working Knowledge of Linux servers 
+
+• Working Knowledge of CI/CD tool: Jenkins  
+
+• Working Knowledge of Configuration management tool: Ansible 
+
+• Sound understanding of DevOps Tools & Practices. 
+
+• Working Knowledge of version control system: GIT 
+
+• Working Knowledge of pipeline deployments: Groovy 
+
+• Able to troubleshoot and resolve system availability and performance issues 
+
+• System administration experience with Windows Server and Linux is preferred 
+
+• Knowledge of Strigo a plus
